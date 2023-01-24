@@ -25,5 +25,5 @@ print(list(even_list))
 odd_list = filter((lambda num : num % 2 != 0), my_list)
 print(list(odd_list))
 
-
+print("This is added to check SCM polling jenkins")
 
